@@ -8,6 +8,9 @@ function decrease(){
         head.innerHTML--;
     }
     else{
-        head.innerHTML;
+        head.innerHTML
     }
+}
+function resetValue(){
+    head.innerHTML = "0"
 }
